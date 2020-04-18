@@ -10,4 +10,4 @@ For running the notebooks, the packages required are:
 
 For runnning, SS-2,3 and 4, keep the notebooks in the individual folders and then run the notebook.
 
-<b>Note</b>: For SS-4, GPU access is required. Atleast a GPU with 12 GB memory would be required to run the experiments.
+<b>Note</b>: For SS-4, GPU access is required. 
