@@ -8,6 +8,6 @@ For running the notebooks, the packages required are:
 * CUDA 9.0 or higher (for last notebook)
 
 
-For runnning, SS-2,3 and 4, keep the notebooks in the individual folders and then run the notebook.
+For runnning, SS-2,3 and 4, keep the notebooks and the corresponding image folders in the individual folders and then run the notebook.
 
 <b>Note</b>: For SS-4, GPU access is required. 
